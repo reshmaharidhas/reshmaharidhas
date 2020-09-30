@@ -1,4 +1,4 @@
-### I am Reshma:woman_technologist:
+<h1 align="center">Hi, I am Reshma:woman_technologist:</h1>
 
 - 💬 Ask me about **Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
 
