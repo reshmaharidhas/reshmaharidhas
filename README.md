@@ -9,6 +9,7 @@
 <h3>Languages & Tools</h3>
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/ height="48" width="48">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/600px-Solidity_logo.svg.png" height="48" width="48">
   <img src="https://img.icons8.com/color/48/000000/ethereum.png" height="48" width="48" />
   <img src="https://www.php.net/images/logos/new-php-logo.svg" height="48" width="48"/>
