@@ -27,9 +27,9 @@
   <a href="https://github.com/reshmaharidhas" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github_logo" height="30" width="30"/></a>
 </p>
 
-[![Reshma's github stats](https://github-readme-stats.vercel.app/api?username=reshmaharidhas&hide=prs,contribs&show_icons=true&theme=radical)](https://github.com/reshmaharidhas/github-readme-stats)
+[![Reshma Haridhas's github stats](https://github-readme-stats.vercel.app/api?username=reshmaharidhas&hide=prs,contribs&show_icons=true&theme=radical)](https://github.com/reshmaharidhas/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaharidhas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaharidhas&layout=compact&theme=radical)](https://github.com/reshmaharidhas/github-readme-stats)
 
 <!--
 **reshmaharidhas/reshmaharidhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
