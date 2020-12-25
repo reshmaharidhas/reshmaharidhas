@@ -27,6 +27,7 @@
   <a href="https://github.com/reshmaharidhas" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github_logo" height="30" width="30"/></a>
 </p>
 
+### GitHub Stats
 [![Reshma Haridhas's github stats](https://github-readme-stats.vercel.app/api?username=reshmaharidhas&hide=prs,contribs&show_icons=true&theme=radical)](https://github.com/reshmaharidhas/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaharidhas&layout=compact&theme=radical)](https://github.com/reshmaharidhas/github-readme-stats)
