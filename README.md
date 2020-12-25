@@ -13,7 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/600px-Solidity_logo.svg.png" height="40" width="40" />
   <img src="https://img.icons8.com/color/48/000000/ethereum.png" height="48" width="48" />
   <img src="https://www.php.net/images/logos/new-php-logo.svg" height="48" width="48"/>
-  <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" height="48" width="48" />
+  <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" height="40" width="88" />
   <img src="https://img.icons8.com/color/48/000000/android-os.png" height="48" width="48" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="48" width="48" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" height="48" width="48" />
