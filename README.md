@@ -2,7 +2,7 @@
 
 - 💬 Ask me about **Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
 
-- 📫 How to reach me: **amreshmah@gmail.com**
+- 📫 How to reach me: **Linkedin**
 
 - ⚡ Fun fact: Like **computer:computer:, technology, :iphone:gadgets:desktop_computer:, cycling:biking_woman:, painting:art:, nature:four_leaf_clover::blossom::shamrock::tulip:**
 
