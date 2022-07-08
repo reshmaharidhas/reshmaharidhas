@@ -22,7 +22,7 @@
 </p>
 <br> 
 <p align="center">
-  <a href="http://reshma-h.000webhostapp.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="30" width="30" /></a>
+  <a href="https://reshmaharidhas.github.io/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/reshmaharidhas/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin_logo" height="30" width="30" /></a>
   <a href="https://github.com/reshmaharidhas" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github_logo" height="30" width="30"/></a>
 </p>
