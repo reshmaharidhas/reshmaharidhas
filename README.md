@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I am Reshma:woman_technologist:</h1>
 
+![](https://visitor-badge.glitch.me/badge?page_id=reshmaharidhas.reshmaharidhas)
+![](https://komarev.com/ghpvc/?username=reshmaharidhas&color=brightgreen)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://reshmaharidhas.github.io/)](https://reshmaharidhas.github.io/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmaharidhas/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/reshmaharidhas/)
+
 - 💬 Ask me about **Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
+
+- 📝 I write technical articles on **GeeksforGeeks** and **Medium**
 
 - 📫 How to reach me: **Linkedin**
 
@@ -20,12 +28,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" height="48" width="48" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" height="48" width="48" />
 </p>
-<br> 
-<p align="center">
-  <a href="https://reshmaharidhas.github.io/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/reshmaharidhas/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin_logo" height="30" width="30" /></a>
-  <a href="https://github.com/reshmaharidhas" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github_logo" height="30" width="30"/></a>
-</p>
+<br>
 
 ### GitHub Stats
 [![Reshma Haridhas's github stats](https://github-readme-stats.vercel.app/api?username=reshmaharidhas&hide=prs,contribs&show_icons=true&theme=radical)](https://github.com/reshmaharidhas/github-readme-stats)
