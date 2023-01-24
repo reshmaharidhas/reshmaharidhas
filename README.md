@@ -5,6 +5,8 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://reshmaharidhas.github.io/)](https://reshmaharidhas.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmaharidhas/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/reshmaharidhas/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
 
 - 💬 Ask me about **Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
 
@@ -15,20 +17,25 @@
 - ⚡ Fun fact: Like **computer:computer:, technology, :iphone:gadgets:desktop_computer:, cycling:biking_woman:, painting:art:, nature:four_leaf_clover::blossom::shamrock::tulip:**
 
 <h3>Languages & Tools</h3>
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="48" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" height="48" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/600px-Solidity_logo.svg.png" height="40" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/ethereum.png" height="48" width="48" />
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="48" width="48"/>
-  <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" height="40" width="88" />
-  <img src="https://img.icons8.com/color/48/000000/android-os.png" height="48" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="48" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" height="48" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" height="48" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="48" width="48" />
-</p>
-<br>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+
 
 ### GitHub Stats
 [![Reshma Haridhas's github stats](https://github-readme-stats.vercel.app/api?username=reshmaharidhas&hide=prs,contribs&show_icons=true&theme=radical)](https://github.com/reshmaharidhas/github-readme-stats)
