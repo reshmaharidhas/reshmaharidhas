@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Reshma:woman_technologist:</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=reshmaharidhas.reshmaharidhas)
-![](https://komarev.com/ghpvc/?username=reshmaharidhas&color=brightgreen)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas&label=Profile%20views&labelColor=%23000000&countColor=%2300ff00&style=flat-square&labelStyle=upper)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://reshmaharidhas.github.io/)](https://reshmaharidhas.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmaharidhas/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/reshmaharidhas/)
