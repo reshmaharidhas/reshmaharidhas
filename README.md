@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Reshma:woman_technologist:</h1>
+<h1 align="center">Hi, I am Reshma :woman_technologist:</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=reshmaharidhas.reshmaharidhas)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas&label=Profile%20views&labelColor=%23000000&countColor=%2300ff00&style=flat-square&labelStyle=upper)
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **Linkedin**
 
-- ⚡ Fun fact: Like **computer:computer:, technology, :iphone:gadgets:desktop_computer:, cycling:biking_woman:, painting:art:, nature:four_leaf_clover::blossom::shamrock::tulip:**
+- ⚡ Fun fact: **Likes** :computer:computer:computer:, technology, :iphone:gadgets:desktop_computer:, cycling:biking_woman:, painting:art:, nature:four_leaf_clover::blossom::shamrock::tulip:
 
 <h3>Languages & Tools</h3>
 
@@ -37,6 +37,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
+<h3>Read my Articles</h3>
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
 
 <!--
 **reshmaharidhas/reshmaharidhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
