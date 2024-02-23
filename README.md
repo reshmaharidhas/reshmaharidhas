@@ -8,9 +8,9 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
 
-- 💬 Ask me about **Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
+- 💬 Ask me about **Python, Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
 
-- 📝 I write technical articles on **GeeksforGeeks** and **Medium**
+- 📝 I write technical articles on **GeeksforGeeks, Medium** and **Hashnode**
 
 - 📫 How to reach me: **Linkedin**
 
@@ -18,6 +18,7 @@
 
 <h3>Languages & Tools</h3>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
