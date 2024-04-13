@@ -39,6 +39,8 @@
 ![NetBeans IDE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reshmaharidhas&show_icons=true&theme=rose&rank_icon=github&hide=contribs,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaharidhas&theme=rose&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Read my Articles</h3>
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
