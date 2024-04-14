@@ -45,7 +45,7 @@
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
-
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://reshmaharidhas.hashnode.dev/)
 
 <!--
 **reshmaharidhas/reshmaharidhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
