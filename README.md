@@ -9,6 +9,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
 
 - 💬 Ask me about **Python, Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
+  
+- 🎯 I'm currently working on cool Python projects
 
 - 📝 I write technical articles on **GeeksforGeeks, Medium** and **Hashnode**
 
