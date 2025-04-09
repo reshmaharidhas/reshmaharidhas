@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
   
-- 🎯 I'm currently working on cool Python projects
+- 🎯 I'm currently working on training leading AI models 🤖
 
 - 📝 I write technical articles on **GeeksforGeeks, Medium** and **Hashnode**
 
