@@ -13,7 +13,7 @@
   
 - 🎯 I'm currently working on training leading AI models 🤖
 
-- 📝 I write technical articles on **GeeksforGeeks, Medium** and **Hashnode**
+- 📝 I write technical articles on **GeeksforGeeks, Medium, Hashnode** and **Dev**
 
 - 📫 How to reach me: **Linkedin**
 
