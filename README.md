@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **Linkedin**
 
-- ⚡ Fun fact: **Likes** :computer:computer:computer:, technology, :iphone:gadgets:desktop_computer:, cycling:biking_woman:, painting:art:, nature:four_leaf_clover::blossom::shamrock::tulip:
+- ⚡ Fun fact: **Likes** :computer:computer:computer:, technology, :iphone:gadgets:desktop_computer:, cycling:biking_woman:, painting:art:, nature:four_leaf_clover::blossom::shamrock::tulip:,🏞️
 
 <h3>Languages & Tools</h3>
 
@@ -57,7 +57,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://reshmaharidhas.hashnode.dev/)
-![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/reshmaharidhas)
 
 <!--
 **reshmaharidhas/reshmaharidhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
