@@ -6,8 +6,10 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/reshmaharidhas/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/reshmaharidhas)
 
-- 💬 Ask me about **Python, Java, Data Structures, Algorithms, Ethereum blockchain, Solidity**
+
+- 💬 Ask me about **Python, Java, Data Structures, Algorithms, Data visualizations**
   
 - 🎯 I'm currently working on training leading AI models 🤖
 
@@ -46,15 +48,16 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reshmaharidhas&show_icons=true&theme=rose&rank_icon=github&hide=contribs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmaharidhas&theme=rose&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Read my Articles</h3>
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://reshmaharidhas.hashnode.dev/)
+![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 
 <!--
 **reshmaharidhas/reshmaharidhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
