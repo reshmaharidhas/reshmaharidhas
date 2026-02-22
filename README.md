@@ -4,8 +4,6 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://reshmaharidhas.github.io/)](https://reshmaharidhas.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmaharidhas/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/reshmaharidhas/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/reshmah/articles)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://reshmaharidhas.medium.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/reshmaharidhas)
 
 
@@ -59,7 +57,52 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://reshmaharidhas.hashnode.dev/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/reshmaharidhas)
 
-<h3>GitHub stats</h3>
+## Notable Projects
+<details id="data-science-projects">
+  <summary><strong>Data Analytics & AI-ML Projects</strong></summary>
+  <h4> 📊 Data Analytics & Data Science Projects</h4>
+<ul>
+  <li>✈️ <strong>New Zealand Airfares Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🚘 <strong>Lamborghini Sales Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-Lamborghini-sales-from-2020-to-2025">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>👩🏼‍🎤 <strong>Highest Grossing concert tour by Women Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-Highest-Grossing-concert-tours-by-women">Visit the <strong>GitHub repo</strong> here</a></li>
+</ul>
+</details>
+<details id="web-development-projects">
+  <summary><strong>Desktop Projects</strong></summary>
+  <h4> 🖥️ Java Applications</h4>
+  <ul>
+    <li>⚖️ <strong>BMI Calculator app</strong> <a href="https://github.com/reshmaharidhas/BMI-Calculator">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>🕵️ <strong>Password Strength Checker app</strong> <a href="https://github.com/reshmaharidhas/Password-Strength-Checker">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>★ <strong>Password Generator app</strong> <a href="https://github.com/reshmaharidhas/Password-Generator">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>1️⃣ <strong>Fibonacci Generator app</strong> <a href="https://github.com/reshmaharidhas/FibonacciGenerator">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>🔡 <strong>Translator app</strong> <a href="https://github.com/reshmaharidhas/translator">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  </ul>
+  <h4> 🖥️ Python Applications</h4>
+  <ul>
+    <li>🐍 <strong>Snakes and Ladders app</strong> <a href="https://github.com/reshmaharidhas/Snakes-And-Ladders">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>🎶 <strong>PC Musique player app</strong> <a href="https://github.com/reshmaharidhas/PC-Musique-Player">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>☔ <strong>Weathercast app</strong> <a href="https://github.com/reshmaharidhas/Weather-Cast">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>📊 <strong>Sorting visualizer app</strong> <a href="https://github.com/reshmaharidhas/Sorting-Visualizer">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>🗈 <strong>GitHub Profile Viewer app</strong> <a href="https://github.com/reshmaharidhas/Github-profile-viewer">Visit the <strong>GitHub repo</strong> here</a></li>
+    <li>💱 <strong>Currency Converter app</strong> <a href="https://github.com/reshmaharidhas/Currency-Converter">Visit the <strong>GitHub repo</strong> here</a></li>
+    <li>🎲 <strong>Dice roller app</strong> <a href="https://github.com/reshmaharidhas/Dice-Roller">Visit the <strong>GitHub repo</strong> here</a></li>
+    <li>➕ <strong>Basic Calculator app</strong> <a href="https://github.com/reshmaharidhas/Basic-Calculator">Visit the <strong>GitHub repo</strong> here</a></li>
+    <li>🗇 <strong>My Notes app</strong> <a href="https://github.com/reshmaharidhas/My-Notes">Visit the <strong>GitHub repo</strong> here</a></li>
+    <li>📔 <strong>Phonebook app</strong> <a href="https://github.com/reshmaharidhas/Phonebook">Visit the <strong>GitHub repo</strong> here</a></li>
+    <li>🚗 <strong>Car Logo Quiz app</strong> <a href="https://github.com/reshmaharidhas/Car-Logo-Quiz">Visit the <strong>GitHub repo</strong> here</a></li>
+  </ul>
+</details>
+<details id="web-development-projects">
+  <summary><strong>Web Development Projects</strong></summary>
+  <h4> 🔥 Interactive & Utility-Based Applications</h4>
+  <ul>
+    <li>☔ <strong>Weathercast app</strong> <a href="https://github.com/reshmaharidhas/Weathercast">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>⚖️ <strong>BMI app</strong> <a href="https://github.com/reshmaharidhas/BMI_Flask_app">Visit the <strong>GitHub repo</strong> here</a>.</li>
+    <li>💱 <strong>Currency Converter app</strong> <a href="https://github.com/reshmaharidhas/CurrencyConverter">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  </ul>
+</details>
+  
+## GitHub stats
 <p align="center">
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshmaharidhas&theme=radical" alt="Reshma Haridhas's GitHub Streak" />
