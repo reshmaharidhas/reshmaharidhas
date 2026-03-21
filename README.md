@@ -67,6 +67,7 @@
   <li>🚘 <strong>Lamborghini Sales Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-Lamborghini-sales-from-2020-to-2025">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>👩🏼‍🎤 <strong>Highest Grossing concert tour by Women Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-Highest-Grossing-concert-tours-by-women">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🏬 <strong>Retail store sales Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-analysis-of-Retail-store-sales">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li><strong>💼 AI job market & salaries Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-analysis-of-AI-job-market-and-salaries-in-2025-and-2026">Visit the <strong>GitHub repo</strong> here</a></li>
 </ul>
 </details>
 <details id="web-development-projects">
