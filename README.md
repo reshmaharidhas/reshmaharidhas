@@ -7,7 +7,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/reshmaharidhas)
 
 
-- 💬 Ask me about **Python, Java, Data Structures, Algorithms, Data visualizations**
+- 💬 Ask me about **Python, Data Analysis, Data Structures, Algorithms, Data visualizations**
   
 - 🎯 I'm currently working on training leading AI models 🤖
 
