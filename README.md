@@ -70,6 +70,7 @@
   <li>🏬 <strong>Retail store sales Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-analysis-of-Retail-store-sales">Visit the <strong>GitHub repo</strong> here</a></li>
   <li><strong>💼 AI job market & salaries Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-analysis-of-AI-job-market-and-salaries-in-2025-and-2026">Visit the <strong>GitHub repo</strong> here</a></li>
   <li><strong>🎓 QS world university rankings 2026 Data Analysis </strong><a href="https://github.com/reshmaharidhas/Data-Analysis-of-QS-World-University-Rankings-2026"> Visit the <strong>GitHub repo</strong> here</a></li>
+  <li><strong>🏘️ Dubai Real Estate Sales March to April 2026 Data Analysis </strong><a href="https://github.com/reshmaharidhas/Data-Analysis-of-Dubai-Real-Estate-Sales-March-to-April-2026"> Visit the <strong>GitHub repo</strong> here</a></li>
 </ul>
 </details>
 <details id="web-development-projects">
