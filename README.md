@@ -25,6 +25,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3a93c6?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 <img src="https://img.shields.io/badge/Tkinter-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white"/>
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -64,6 +65,7 @@
   <summary><strong>Data Analytics & AI-ML Projects</strong></summary>
   <h4> 📊 Data Analytics & Data Science Projects</h4>
 <ul>
+  <li>🦠 <strong>Hantavirus Epidemiology Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-Hantavirus-Epidemiology-worldwide">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>✈️ <strong>New Zealand Airfares Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-airfares-in-New-Zealand">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🔌 <strong>EV charging stations in New Zealand Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-EV-charging-stations-in-New-Zealand">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🚘 <strong>Lamborghini Sales Data Analysis</strong> <a href="https://github.com/reshmaharidhas/Data-Analysis-of-Lamborghini-sales-from-2020-to-2025">Visit the <strong>GitHub repo</strong> here</a></li>
