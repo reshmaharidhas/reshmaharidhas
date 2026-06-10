@@ -105,6 +105,7 @@
   <summary><strong>Web Development Projects</strong></summary>
   <h4> 🔥 Interactive & Utility-Based Applications</h4>
   <ul>
+    <li>⛅ <strong>WeatherCast web</strong> <a href="https://github.com/reshmaharidhas/Weathercast-streamlit"> Visit the <strong>GitHub repo</strong></a></li>
     <li>☔ <strong>Weathercast app</strong> <a href="https://github.com/reshmaharidhas/Weathercast">Visit the <strong>GitHub repo</strong> here</a>.</li>
     <li>⚖️ <strong>BMI app</strong> <a href="https://github.com/reshmaharidhas/BMI_Flask_app">Visit the <strong>GitHub repo</strong> here</a>.</li>
     <li>💱 <strong>Currency Converter app</strong> <a href="https://github.com/reshmaharidhas/CurrencyConverter">Visit the <strong>GitHub repo</strong> here</a>.</li>
